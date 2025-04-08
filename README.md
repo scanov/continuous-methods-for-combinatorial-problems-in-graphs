@@ -1,6 +1,6 @@
 # continuous-methods-for-combinatorial-problems-in-graphs
 
-Undergraduate thesis for my computer science degree at Universidad nacional de Colombia
+Undergraduate thesis for my computer science degree at Universidad nacional de Colombia.
 In this monograph, we present an introduction to the use of linear and convex optimization
 methods to combinatorial problems in graphs, which can serve as a starting point for 
 understanding some of the recent advancements in the area of graph theory, we begin with
